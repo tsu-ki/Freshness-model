@@ -14,6 +14,6 @@ def check_and_download_file(file_path, google_drive_url):
 
 
 # Example usage
-file_name = "fruit_model.h5"  # Replace with your desired file name
+file_name = "Indian_Fruit_98.25.h5"  # Replace with your desired file name
 google_drive_url = "https://drive.google.com/uc?id=1GX46MFyLa5zI5X3L0SiWu4brCjcxMUes"  # Replace with your file's Google Drive URL
 check_and_download_file(file_name, google_drive_url)
