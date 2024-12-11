@@ -1,6 +1,5 @@
 # Critiscan's Fruit Quality Assessment Model
-
-![[Pasted image 20241211151126.png]]
+![image](https://github.com/user-attachments/assets/1c57d228-e99e-48a0-ae29-17906734b350)
 ## *Overview*
 
 Critiscan's Fruit Quality Assessment Model is an advanced deep learning solution for detecting the freshness of fruits and vegetables using computer vision. Developed for the Flipkart Robotics Challenge Hackathon, this model provides an innovative approach to quality assessment in agricultural produce.
@@ -66,29 +65,14 @@ Critiscan's Fruit Quality Assessment Model is an advanced deep learning solution
 
 #### **2, Installation**
 
-1. Clone the repository:
-    
-    bash
-    
-    Copy
-    
-    `git clone https://github.com/your-repo/critiscan.git`
+1. Clone the repository:    
+    ```git clone https://github.com/your-repo/critiscan.git```
     
 2. Install dependencies:
-    
-    bash
-    
-    Copy
-    
-    `pip install -r requirements.txt`
+    ```pip install -r requirements.txt```
     
 3. Run the application:
-    
-    bash
-    
-    Copy
-    
-    `python app.py`
+   ```python app.py```
 
 ---
 ## *Future Roadmap*
