@@ -63,7 +63,7 @@ Critiscan's Fruit Quality Assessment Model is an advanced deep learning solution
 - pip
 - Docker (optional)
 
-#### **2, Installation**
+#### **2. Installation**
 
 1. Clone the repository:    
     ```git clone https://github.com/your-repo/critiscan.git```
