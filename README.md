@@ -34,7 +34,7 @@ Critiscan's Fruit Quality Assessment Model is an advanced deep learning solution
 #### **2. Training and Validation**
 
 - **Epochs**: 40
-- **Batch Size**: XX
+- **Batch Size**: 20
 - **Data Augmentation**: (Mention if used and details, e.g., rotation, zoom, flip.)
 - **Callbacks**:
     - **ReduceLROnPlateau**: Reduces learning rate by a factor of 0.5 if validation loss stagnates for 2 epochs.
@@ -66,13 +66,13 @@ Critiscan's Fruit Quality Assessment Model is an advanced deep learning solution
 #### **2. Installation**
 ```
 #Clone the repository:    
-    ```git clone https://github.com/tsu-ki/Freshness-model```
+    git clone https://github.com/tsu-ki/Freshness-model
     
 #Install dependencies:
-    ```pip install -r requirements.txt```
+    pip install -r requirements.txt
     
 #Run the application:
-   ```python app.py```
+   python app.py
 ```
 
 ---
