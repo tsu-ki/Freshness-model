@@ -6,6 +6,8 @@ Critiscan's Fruit Quality Assessment Model is an advanced deep learning solution
 
 - [Link to Website Repository](https://github.com/aanushkaguptaa/critiscan)
 - [Link to OCR Detection Model](https://github.com/tsu-ki/ocr-script-freshness-model)
+- [Link to Item Counting and Brand Detection](https://github.com/tsu-ki/FMCGDetectron)
+
 ## *Key Features*
 
 - **High-Accuracy Freshness Classification**: Achieves an impressive 99.69% accuracy in detecting fruit and vegetable quality
